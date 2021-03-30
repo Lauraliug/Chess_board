@@ -9,7 +9,6 @@
 }
 
 .box {
-    display: inline-block;
     width: 700px;
     height: 700px;
     border: 2px solid black;
@@ -20,8 +19,7 @@
 }
 
 .wrapper .box .box__row {
-    display: flex;
-    width: 90%;
+     width: 90%;
     height: 90%;
     border: 5px solid black;
     justify-content: center;
